@@ -1,2 +1,2 @@
 # HousieGame
-Housie family game
+Housie family game played amoung family members
